@@ -38,7 +38,7 @@ onMounted(async () => {
     <v-responsive class="align-centerfill-height mx-auto" max-width="900">
       <v-row>
         <v-col cols="12">
-          <v-card title="hello world vue"></v-card>
+          <v-card title="hello world vue teste"></v-card>
         </v-col>
       </v-row>
     </v-responsive>
